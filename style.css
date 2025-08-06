@@ -21,7 +21,10 @@ body {
 }
 
 .container h1 {
-  font-size: 80px;
+    font-size: 80px;
+    border: 1px solid #000;
+    padding: 1rem;
+    border-radius: 0.5rem;
 }
 
 .cursor {
